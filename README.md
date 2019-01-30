@@ -13,8 +13,6 @@ npm install
 npm run sass
 ```
 
-## App Info
-
 ### Author
 
 Matt Henley 
