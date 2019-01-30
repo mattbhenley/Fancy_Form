@@ -1,4 +1,5 @@
 # Fancy Form
+![Fancy Form](https://github.com/mattbhenley/Images/blob/master/fancy.PNG)
 
 > Form UI with progress bar. Uses HTML, CSS Transitions with Sass & JavaScript.
 
